@@ -695,7 +695,7 @@ define([ 'common-ui/util/util', 'common-ui/util/timeutil', 'common-ui/util/forma
                 logger && logger.log("Width is too small - assuming a default width of " + dimensions.w);
               }
 
-              geometry.setContentSize(t, {w: dimensions.w, h: dimensions.h});
+              geometry.setContentSize(t, {w: dimensions.w + 20, h: dimensions.h});
               $('#reportContent').hide().fadeIn('fast');
             }, 15);
           });
