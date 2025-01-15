@@ -51,6 +51,8 @@
     <guava.version>17.0</guava.version>
     <javax.ws.rs-api.version>2.0</javax.ws.rs-api.version>
     <javax.servlet-api.version>3.0.1</javax.servlet-api.version>
+
+    <npmDownloadRoot>https://registry.npmjs.org/npm/-/</npmDownloadRoot>
   </properties>
   <dependencyManagement>
     <dependencies>
