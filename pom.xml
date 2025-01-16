@@ -8,7 +8,7 @@
   </parent>
   <groupId>org.pentaho.reporting.plugin</groupId>
   <artifactId>reporting-platform-plugin</artifactId>
-  <version>9.4.0.0-343-1-SNAPSHOT</version>
+  <version>9.4.0.0-343-1</version>
   <packaging>pom</packaging>
   <name>Pentaho Platform Reporting Plugin</name>
   <licenses>
@@ -22,6 +22,7 @@
     <connection>scm:git:https://github.com/petrprochy/pentaho-platform-plugin-reporting.git</connection>
     <developerConnection>scm:git:https://github.com/petrprochy/pentaho-platform-plugin-reporting.git</developerConnection>
     <url>https://github.com/petrprochy/pentaho-platform-plugin-reporting.git</url>
+    <tag>reporting-platform-plugin-9.4.0.0-343-1</tag>
   </scm>
   <properties>
     <pentaho-cdf-plugin.version>9.4.0.0-343</pentaho-cdf-plugin.version>
