@@ -4,10 +4,10 @@
   <parent>
     <groupId>org.pentaho.reporting.plugin</groupId>
     <artifactId>reporting-platform-plugin</artifactId>
-    <version>9.4.0.0-343-1</version>
+    <version>9.4.0.0-343-2-SNAPSHOT</version>
   </parent>
   <artifactId>reporting-platform-plugin-assemblies</artifactId>
-  <version>9.4.0.0-343-1</version>
+  <version>9.4.0.0-343-2-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>Pentaho Platform Reporting Plugin Assemblies</name>
   <modules>
